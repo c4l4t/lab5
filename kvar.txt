@@ -1,0 +1,4 @@
+50 Rusakob Ivan Dovidov Center 4000 A
+55 Pulkina Grigoria Ivanovna Kirovsky 1500 B
+42 Antonov Egor Sergeevich Leninsky 700 C
+!
